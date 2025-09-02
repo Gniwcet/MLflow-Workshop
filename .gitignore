@@ -1,2 +1,16 @@
 mlflow_env/
 *.png
+
+# Environnement virtuel
+.venv/
+
+# Fichiers de cache Python
+__pycache__/
+*.pyc
+
+# Dossier de données (si vous ne voulez pas le pusher)
+data/
+
+# Dossiers MLflow (générés localement)
+mlruns/
+mlartifacts/
