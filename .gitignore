@@ -14,3 +14,5 @@ data/
 # Dossiers MLflow (générés localement)
 mlruns/
 mlartifacts/
+
+creditcard.csv
